@@ -1,3 +1,1 @@
-# CurrencyConverterBC
-
 A simples currency converter app, using best practices like, MVVM + Clean, Hilt (DI), Livedata, Retrofit2, and so on...
